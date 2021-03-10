@@ -12,7 +12,7 @@ type TechnologiesType = {
     title: string
 }
 
-type StudentType = {
+export type StudentType = {
     name: string,
     age: number,
     isActivity: boolean,
